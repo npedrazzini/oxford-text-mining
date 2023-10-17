@@ -19,4 +19,4 @@ _Coming soon!_
 ## Binder
 On MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/npedrazzini/pavia-text-mining.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/npedrazzini/oxford-text-mining/HEAD)
