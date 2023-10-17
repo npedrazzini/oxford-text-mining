@@ -1,8 +1,8 @@
-# Text mining for the Humanities: a hands-on introduction with Python
+# An Introduction to Text Mining with Python
+In this repository you will find all the materials used in the Introduction to Text Mining, part of the Text Analysis module of the MSc in Digital Scholarship (University of Oxford, Michaelmas Term 2023).
 
 ## Overview page
 General info on [HackMD](https://hackmd.io/@h7WQUmfIS3uo0vdpcyPkCQ/Hyiol3LZ6).
-
 
 ## Notebooks
 
