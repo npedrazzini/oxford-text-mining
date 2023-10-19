@@ -11,7 +11,7 @@ General info on [HackMD](https://hackmd.io/@h7WQUmfIS3uo0vdpcyPkCQ/Hyiol3LZ6).
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sk8zEJOj5v6qZ6xfcZIQd5bOcUxQBy4e?usp=sharing) **Mining Dickens. Part I: Off-the shelf NLP tagging and quantitative data exploration**
 
 ## Day 2
-_Coming soon!_
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vqtagEYbCg-_edI9oSlj5VdZUsZ-kPCc?usp=sharing) **Mining Dickens. Part II: Topic modelling, sentiment analysis and character network analysis**
 
 ## Day 3
 _Coming soon!_
