@@ -16,7 +16,6 @@ General info on [HackMD](https://hackmd.io/@h7WQUmfIS3uo0vdpcyPkCQ/Hyiol3LZ6).
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vqtagEYbCg-_edI9oSlj5VdZUsZ-kPCc?usp=sharing) **Mining Dickens. Part II: Topic modelling, sentiment analysis and character network analysis**
 
 ## Day 3
-_Coming soon!_
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1woqRhbMXQHCSd76dbqQKOT7CmiF-InhJ?usp=sharing) **Introduction to Word2Vec**
 
 > Note: the following would require you to download the embedding models from [here](https://zenodo.org/records/7181682).
